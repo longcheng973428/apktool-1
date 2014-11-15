@@ -1,0 +1,4 @@
+apktool
+=======
+
+shc apktool plug
